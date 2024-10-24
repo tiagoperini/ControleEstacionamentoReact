@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 Precisa usar o comando npm install e npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
